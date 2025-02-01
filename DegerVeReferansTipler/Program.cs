@@ -16,6 +16,8 @@ namespace DegerVeReferansTipler
 
 
 
+
+
             Console.WriteLine(sayi1);
 
             //int , decimali float, double, bool  = değer tipleri
